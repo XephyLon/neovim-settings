@@ -5,7 +5,7 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.rose_pine" },
+  { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.test.neotest" },
