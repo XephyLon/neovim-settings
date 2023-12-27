@@ -6,7 +6,10 @@ return {
 
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.rose-pine" },
-  { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.test.neotest" },
+  { import = "astrocommunity.completion.codeium-vim" },
+  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+  { import = "astrocommunity.lsp.lsp-signature-nvim" },
+  { import = "astrocommunity.utility.telescope-live-grep-args-nvim" },
 }
