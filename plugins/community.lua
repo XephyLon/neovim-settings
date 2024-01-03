@@ -9,7 +9,7 @@ return {
   { import = "astrocommunity.workflow.hardtime-nvim" },
   { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.completion.codeium-vim" },
-  { import = "astrocommunity.editing-support.nvim-ts-rainbow2" },
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.utility.telescope-live-grep-args-nvim" },
 }
