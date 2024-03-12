@@ -12,4 +12,10 @@ return {
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.utility.telescope-live-grep-args-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
+  { import = "astrocommunity.color.twilight-nvim" },
+  { import = "astrocommunity.utility.neodim" },
+  { import = "astrocommunity.pack.angular" },
+  { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
+  { import = "astrocommunity.syntax.vim-easy-align" },
 }
