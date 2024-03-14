@@ -18,4 +18,6 @@ return {
   { import = "astrocommunity.scrolling.satellite-nvim" },
   { import = "astrocommunity.diagnostics.lsp_lines-nvim" },
   { import = "astrocommunity.syntax.vim-easy-align" },
+  { import = "astrocommunity.git.diffview-nvim" },
+  { import = "astrocommunity.git.octo-nvim" },
 }
