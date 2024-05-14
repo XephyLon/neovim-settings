@@ -20,4 +20,5 @@ return {
   { import = "astrocommunity.syntax.vim-easy-align" },
   { import = "astrocommunity.git.diffview-nvim" },
   { import = "astrocommunity.git.octo-nvim" },
+  { import = "astrocommunity.search.sad-nvim" },
 }
